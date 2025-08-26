@@ -9,11 +9,11 @@ Cliente TypeScript/Node.js para consumir a API **MDev-Cloud** de forma tipada, c
 ## 📦 Instalação
 
 ```bash
-npm install mdev-cloud-client
+npm install mdev-cloud
 # ou
-yarn add mdev-cloud-client
+yarn add mdev-cloud
 # ou
-pnpm add mdev-cloud-client
+pnpm add mdev-cloud
 ```
 
 > Requer **Node.js 18+** (fetch nativo).
