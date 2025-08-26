@@ -2,7 +2,9 @@
 
 Cliente TypeScript/Node.js para consumir a API **MDev-Cloud** de forma tipada, com cache interno e suporte a debug.
 
-> **Agradecimentos:**[M'Dev Systems](https://github.com/MDevSystems) e [@luciano\_mendesz9](https://github.com/luciano-mendesz9)
+> **Agradecimentos:**[M'Dev Systems](https://github.com/Kamado8421) e [@luciano\_mendesz9](https://instagram.com/luciano_mendesz9)
+
+> **Contribua Financeiramente para a permanência do projeto:** [contribuir](https://wa.me//559885742985?text=Gostaria+de+contribuir+financeiramente+com+o+projeto+MDev-Cloud)
 
 ---
 
