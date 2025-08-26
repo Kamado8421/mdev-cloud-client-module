@@ -1,0 +1,21 @@
+{
+  "name": "mdev-cloud",
+  "version": "1.0.0",
+  "description": "module mdev-cloud API",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "@luciano_mendesz9",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
