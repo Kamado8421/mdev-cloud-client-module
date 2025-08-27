@@ -240,4 +240,4 @@ Este projeto é open-source sob a licença **MIT**.
 
 ---
 
-Quer que eu faça **um README.md pronto pra colar no GitHub**, já com **badges, sumário clicável e exemplos formatados com syntax highlight**, no padrão open source profissional?
+
